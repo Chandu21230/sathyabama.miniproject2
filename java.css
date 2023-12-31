@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+header {
+    color: blue;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+.signup{
+    background-color: #fff;
+    color: #fff;
+    padding: 10px 20px 20px ;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 400px;  
+    position: relative;
+    left: 750px; 
+    bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px 4px rgb(217, 216, 216);
+}
+
+.sai {
+    margin-top: 20px;
+    border: none;
+    text-align: left;
+    color: #316FF6;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 300px;
+    left: 200px;
+}
+.description {
+    margin-top: 20px;
+    text-align: left;
+    color: black;
+    font-size: 27px;
+    position: relative;
+    top: 275px;
+    left: 200px;
+    
+}
+
+.chandu {
+    margin-top: 20px;
+    border-color: #f2f2f2;
+    text-align: left;
+    width: 350px;
+    padding: 15px;  
+    border-radius: 5px;
+    position: relative;
+    left: 10px;
+    font-size: 15px;
+}
+.krish {
+    margin-top: 20px;
+    border-color: #f2f2f2;
+    text-align: left;
+    width: 350px;
+    padding: 15px;
+    border-radius: 5px;
+    position: relative;
+    left: 10px;
+    font-size: 15px;
+}
+.na {
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #316FF6;
+    border-color: #316FF6;
+    width: 380px;
+    padding: 15px;
+    border-radius: 5px;
+    position: relative;
+    left: 10px;
+}
+
+.akhi{
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: rgb(3, 173, 3);
+    text-align: center;
+    width: 250px;
+    padding: 15px;
+    border-radius: 5px;
+    border-color: rgb(3, 173, 3);
+    position: relative;
+    left: 70px;  
+    bottom: 40px;  
+}
+
+.akki{
+    margin-top: 20px;
+    text-align: left;
+    color: #316FF6;
+    text-align: center;
+    
+}
+.harinya{
+    position: relative;
+    left: 800px;
+    bottom: 25px;
+    font-size: 15px;  
+}
+.charan{
+    border-color: #f2f2f2; 
+}
+
+
+footer {
+    background-color: #6db02d;
+    color: black;
+    padding: 0px;
+    text-align: center;
+    width: 220px;
+    position: relative;
+    top: 110px;
+    border-radius: 5px;
+}
+#sak {
+    color: #f3f3f3;
+    position: relative;
+    left: 15px;
+    bottom: 20px;
+}
